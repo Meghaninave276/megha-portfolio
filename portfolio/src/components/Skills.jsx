@@ -63,6 +63,7 @@ const Skills = () => {
           {renderSkillsGroup('Backend', skillsData.backend, 1)}
           {renderSkillsGroup('Database', skillsData.database, 2)}
           {renderSkillsGroup('Tools', skillsData.tools, 3)}
+          {renderSkillsGroup('Deployment', skillsData.Deployment, 4)}
         </div>
       </div>
     </section>

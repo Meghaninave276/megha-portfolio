@@ -7,6 +7,10 @@
 - [x] 4. Test with `npm run dev`
 - [x] 5. Complete task
 
+✅ **Projects section fully responsive** - Added to App.css: auto-height cards, responsive grid (320px minmax, 1fr @768px), full mobile tweaks (@480px padding/fonts/tech/links), glass hover effects preserved theme/AOS.
+
+✅ **Skills section fully responsive** - Enhanced App.css: minmax(300px), .skills-list flex-col, @media 768px/480px (stack items vertical, scale fonts/paddings/gaps/bars, touch:active states), hover:none media query, preserved animations/AOS/theme.
+
 Approved: Stick to AOS/CSS (no new libs), focus text/background/hover with fade/slide/bounce mixes.
 
 Updated: Added glass-card style to career-objective + fadeInOut pulse animation.

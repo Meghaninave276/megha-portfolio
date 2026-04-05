@@ -1,22 +1,46 @@
 export const skillsData = {
   frontend: [
-    { name: 'React', level: 85 },
-    { name: 'JavaScript', level: 90 },
     { name: 'HTML5', level: 95 },
-    { name: 'CSS3', level: 90 }
+    { name: 'CSS3', level: 90 },
+    { name: 'JavaScript', level: 90 },
+    { name: 'React', level: 85 },
+    { name: 'Responsive Design', level: 85 },
+    { name: 'Tailwind CSS / Bootstrap', level: 85 },
+    { name: 'Redux / Context API', level: 83 },
+    { name: 'Axios / Fetch API', level: 83 },
   ],
   backend: [
     { name: 'Node.js', level: 80 },
     { name: 'Express', level: 85 },
-    { name: 'MongoDB', level: 80 }
+    { name: 'MongoDB', level: 80 },
+    { name: 'RESTful APIs', level: 85 },
+    { name: 'Authentication(JWT, OAuth)', level: 90 },
+    { name: 'File Upload (Multer)', level: 80 },
+    { name: 'Error Handling', level: 80 },
+    { name: 'MVC Architecture', level: 80 },
   ],
   database: [
     { name: 'MongoDB', level: 80 },
-    { name: 'Mongoose', level: 75 }
+    { name: 'Mongoose', level: 75 },
+    { name: 'Aggregation Pipeline', level: 75 },
+    { name: 'Schema Design', level: 85 },
+    { name: 'Indexing', level: 85 },
+    { name: 'Data Modeling', level: 85 },
   ],
-  tools: [
-    { name: 'Git', level: 85 },
+  tools : [
+    { name: 'Git & GitHub', level: 85 },
     { name: 'VS Code', level: 95 },
-    { name: 'Vite', level: 80 }
+    { name: 'Vite', level: 80 },
+    { name: 'Postman', level: 80 },
+    { name: 'npm', level: 85 },
+    { name: 'Chrome DevTools', level: 85 },
+  ],
+    Deployment: [
+    { name: 'GitHub Pages', level: 85 },
+    { name: 'Render', level: 75 },
+    { name: 'Vercel', level: 90 },
+    { name: 'Netlify', level: 90 },
+    { name: 'MongoDB Atlas', level: 80 },
+    { name: 'Environment Variables', level: 90 },
   ]
 };

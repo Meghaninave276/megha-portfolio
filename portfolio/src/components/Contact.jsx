@@ -49,10 +49,10 @@ const Contact = () => {
               </div>
             </div>
             <div className="contact-social">
-              <a href="https://github.com/Meghaninave276" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Meghaninave276" target="_blank" rel="noopener noreferrer" className='social-link'>
                 <FaGithub />
               </a>
-              <a href="https://www.linkedin.com/in/megha-ninave-41637b34b/?locale=%20" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/megha-ninave-41637b34b/?locale=%20" target="_blank" rel="noopener noreferrer" className='social-link'>
                 <FaLinkedin />
               </a>
             </div>
