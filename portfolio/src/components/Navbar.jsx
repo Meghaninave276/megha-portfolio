@@ -34,6 +34,7 @@ const Navbar = () => {
           <a href="#experience" onClick={() => scrollToSection('experience')}>Experience</a>
           <a href="#contact" onClick={() => scrollToSection('contact')}>Contact</a>
         </div>
+        
         <div className="nav-toggle" onClick={toggleMenu}>
           {isOpen ? <FaTimes /> : <FaBars />}
         </div>

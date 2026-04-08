@@ -9,9 +9,9 @@ const Experience = () => {
               <span>🎓</span>
             </div>
             <div className="timeline-content">
-              <h3>Bachelor of Computer Science</h3>
-              <p>University Name, 2020 - 2024</p>
-              <p>CGPA: 8.5/10</p>
+              <h3>Bachelor of Computer Application</h3>
+              <p>University Name, 2023 - 2027</p>
+              <p>CGPA: 7.90/10</p>
             </div>
           </div>
           <div className="timeline-item" data-aos="fade-left" data-aos-delay="400">

@@ -31,14 +31,14 @@ const Contact = () => {
               <FaEnvelope />
               <div>
                 <h3>Email</h3>
-                <p>megha.ninave@example.com</p>
+                <p>meghaninave8@gmail.com</p>
               </div>
             </div>
             <div className="contact-item">
               <FaPhone />
               <div>
                 <h3>Phone</h3>
-                <p>+91 98765 43210</p>
+                <p>+91 76984 70422</p>
               </div>
             </div>
             <div className="contact-item">
